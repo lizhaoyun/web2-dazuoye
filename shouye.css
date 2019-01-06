@@ -688,7 +688,7 @@ a{
 	height:105px;
 }
 .fix .ff>ul>li:first-child{
-	background-color: #f8f7f6;
+	background-color: white;
 	border-image-repeat: no-repeat;
 }
 .fix .ff>ul>li:last-child{
